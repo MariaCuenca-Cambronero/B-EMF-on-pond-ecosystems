@@ -1,5 +1,4 @@
 # B-EMF-on-pond-ecosystems
-Biodiversity enhances pond ecosystem multifunctionality across Europe. Maria Cuenca-Cambronero
 
 MARIA CUENCA-CAMBRONERO
 Manuscript: Biodiversity enhances pond ecosystem multifunctionality across Europe
