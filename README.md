@@ -1,6 +1,7 @@
 # B-EMF-on-pond-ecosystems
 
-MARIA CUENCA-CAMBRONERO et al., (2026)
+MARIA CUENCA-CAMBRONERO et al., (2026), Nat Eco & Evol
+
 Manuscript: Biodiversity enhances pond ecosystem multifunctionality across Europe
 
 This repository provides all data obtained from the PONDERFUL project (H2020, No 869296 ) related to biodiversity and ecosystem functioning, as well as the scripts required to reproduce the analyses, results, and figures presented in the manuscript.
