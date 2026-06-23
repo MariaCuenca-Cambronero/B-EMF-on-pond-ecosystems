@@ -21,5 +21,3 @@ The scripts are fully annotated and self-explanatory. All analytical steps and f
 * DB_Analysis.R: This script contains all analyses and code required to generate the figures for both the main text and the Supplementary Material. All results have also been exported to the corresponding Results Excel file.
 * PackagesFunctions.R: This script lists all R packages and custom functions used throughout the analyses.
 
-### Folder Reviewer Replies
-
