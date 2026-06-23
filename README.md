@@ -4,8 +4,8 @@ MARIA CUENCA-CAMBRONERO et al., (2026), Nat Eco & Evol
 
 Manuscript: Biodiversity enhances pond ecosystem multifunctionality across Europe
 
-This repository provides all data obtained from the PONDERFUL project (H2020, No 869296 ) related to biodiversity and ecosystem functioning, as well as the scripts required to reproduce the analyses, results, and figures presented in the manuscript.
-For further details on raw data processing or analytical procedures, please refer to the manuscript or contact the authors.
+This repository provides all data obtained from the PONDERFUL project (H2020, No. 869296) related to biodiversity and ecosystem functioning, as well as the code required to reproduce the analyses, results, and figures presented in the manuscript.
+For further details on raw data processing or analytical procedures, please refer to the manuscript or contact the authors (mc.cuenca.maria@gmail.com).
 
 ### Database
 * EMF_rawData.xlsx: This file contains the raw dataset. It includes a subset of ponds in which two additional ecosystem functions were incorporated for a secondary analysis presented in the supplementary material (second tab on the file).
