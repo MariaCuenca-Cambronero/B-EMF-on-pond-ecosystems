@@ -12,11 +12,14 @@ For further details on raw data processing or analytical procedures, please refe
 * EMF_T.xlsx: This file contains the transformed dataset generated after running the data preparation script. It also includes the subset of ponds with the two additional ecosystem functions used for the secondary analysis (Supplementary Material), (second tab on the file).
 * EMF_rawData_DKSP.xlsx: This file contains raw data from Denmark and Spain, including a complete analysis of macroinvertebrate richness and rotifer richness (Analysis included in Supplementary Material).
 * EMF_T_DKSP.csv: This file contains the transformed dataset for Denmark and Spain (Analysis included in Supplementary Material).
-ShannonIndex.xlsx: This file includes a comparison between species richness and the Shannon diversity index (Supplementary Material).
+* ShannonIndex.xlsx: This file includes a comparison between species richness and the Shannon diversity index (Supplementary Material).
 
-### Script
+### Code
 The scripts are fully annotated and self-explanatory. All analytical steps and figure generation processes are documented within the code. The structure of the analyses follows the order of figure creation in the main text and the Supplementary Material.
 
 * DB_Preparation.R: This script includes all procedures related to database transformation. In particular, it contains the code for calculating ecosystem multifunctionality and multidiversity metrics.
 * DB_Analysis.R: This script contains all analyses and code required to generate the figures for both the main text and the Supplementary Material. All results have also been exported to the corresponding Results Excel file.
 * PackagesFunctions.R: This script lists all R packages and custom functions used throughout the analyses.
+
+### Folder Reviewer Replies
+
