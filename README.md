@@ -8,10 +8,11 @@ This repository provides all data obtained from the PONDERFUL project (H2020, No
 For further details on raw data processing or analytical procedures, please refer to the manuscript or contact the authors (mc.cuenca.maria@gmail.com).
 
 ### Database
-* EMF_rawData.xlsx: This file contains the raw dataset. It includes a subset of ponds in which two additional ecosystem functions were incorporated for a secondary analysis presented in the supplementary material (second tab on the file).
-* EMF_T.xlsx: This file contains the transformed dataset generated after running the data preparation script. It also includes the subset of ponds with the two additional ecosystem functions used for the secondary analysis (Supplementary Material), (second tab on the file).
-* EMF_rawData_DKSP.xlsx: This file contains raw data from Denmark and Spain, including a complete analysis of macroinvertebrate richness and rotifer richness (Analysis included in Supplementary Material).
-* EMF_T_DKSP.csv: This file contains the transformed dataset for Denmark and Spain (Analysis included in Supplementary Material).
+* METADATA: This file contains the information on the environmental factors and response variables used for the analysis. 
+* EMF_rawData.xlsx: This file contains the raw dataset. It includes a subset of ponds in which two additional ecosystem functions were incorporated for a secondary analysis presented in the supplementary material (second tab on the file). This file will be release on January 2027.
+* EMF_T.xlsx: This file contains the transformed dataset generated after running the data preparation script. It also includes the subset of ponds with the two additional ecosystem functions used for the secondary analysis (Supplementary Material), (second tab on the file). This file will be release on January 2027.
+* EMF_rawData_DKSP.xlsx: This file contains raw data from Denmark and Spain, including a complete analysis of macroinvertebrate richness and rotifer richness (Analysis included in Supplementary Material). This file will be release on January 2027.
+* EMF_T_DKSP.csv: This file contains the transformed dataset for Denmark and Spain (Analysis included in Supplementary Material). This file will be release on January 2027.
 * ShannonIndex.xlsx: This file includes a comparison between species richness and the Shannon diversity index (Supplementary Material).
 
 ### Code
