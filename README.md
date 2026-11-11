@@ -1,6 +1,6 @@
 # B-EMF-on-pond-ecosystems
 
-MARIA CUENCA-CAMBRONERO et al., (2026), Nat Eco & Evol
+Maria Cuenca-Cambronero, Manuel Delgado-Baquerizo, Maria Anton-Pardo, Feride Avci, Mireia Bartrons, Meryem Beklioglu, Jeremy Biggs, Dani Boix, Tuba Bucak, Thomas A Davidson, Luc De Meester, Julie C Fahy, Helen M Greaves, Pieter Lemmens, Eti E Levi, Luis Martin, Thomas Mehner, Beat Oertli, Ian R Patmore, Carl D Sayer, Carolina Trochine, Louisa-Marie von Plüskow, Robby Wijns, Penny Williams, Sandra Brucet. Nature Ecology and Evolution 2026.
 
 Manuscript: Biodiversity enhances pond ecosystem multifunctionality across Europe
 
@@ -9,16 +9,16 @@ For further details on raw data processing or analytical procedures, please refe
 
 ### Database
 * METADATA: This file contains the information on the environmental factors and response variables used for the analysis. 
-* EMF_rawData.xlsx: This file contains the raw dataset. It includes a subset of ponds in which two additional ecosystem functions were incorporated for a secondary analysis presented in the supplementary material (second tab on the file). This file will be release on January 2027.
-* EMF_T.xlsx: This file contains the transformed dataset generated after running the data preparation script. It also includes the subset of ponds with the two additional ecosystem functions used for the secondary analysis (Supplementary Material), (second tab on the file). This file will be release on January 2027.
-* EMF_rawData_DKSP.xlsx: This file contains raw data from Denmark and Spain, including a complete analysis of macroinvertebrate richness and rotifer richness (Analysis included in Supplementary Material). This file will be release on January 2027.
-* EMF_T_DKSP.csv: This file contains the transformed dataset for Denmark and Spain (Analysis included in Supplementary Material). This file will be release on January 2027.
+* EMF_rawData.xlsx: This file contains the raw dataset. It includes a subset of ponds in which two additional ecosystem functions were incorporated for a secondary analysis presented in the supplementary material (second tab in the file). This file will be released in January 2027.
+* EMF_T.xlsx: This file contains the transformed dataset generated after running the data preparation script. It also includes the subset of ponds with the two additional ecosystem functions used for the secondary analysis (Supplementary Material), (second tab on the file). This file will be released in January 2027.
+* EMF_rawData_DKSP.xlsx: This file contains raw data from Denmark and Spain, including a complete analysis of macroinvertebrate richness and rotifer richness (Analysis included in Supplementary Material). This file will be released in January 2027.
+* EMF_T_DKSP.csv: This file contains the transformed dataset for Denmark and Spain (Analysis included in Supplementary Material). This file will be released in January 2027.
 * ShannonIndex.xlsx: This file includes a comparison between species richness and the Shannon diversity index (Supplementary Material).
 
 ### Code
-The scripts are fully annotated and self-explanatory. All analytical steps and figure generation processes are documented within the code. The structure of the analyses follows the order of figure creation in the main text and the Supplementary Material.
+The scripts are fully annotated and self-explanatory. All analytical steps and figure-generation processes are documented in the code. The analysis structure follows the order of figure creation in the main text and the Supplementary Material.
 
-* DB_Preparation.R: This script includes all procedures related to database transformation. In particular, it contains the code for calculating ecosystem multifunctionality and multidiversity metrics.
+* DB_Preparation.R: This script includes all procedures related to database transformation. In particular, it contains the code to calculate ecosystem multifunctionality and multidiversity metrics.
 * DB_Analysis.R: This script contains all analyses and code required to generate the figures for both the main text and the Supplementary Material. All results have also been exported to the corresponding Results Excel file.
 * PackagesFunctions.R: This script lists all R packages and custom functions used throughout the analyses.
 * ExtraAnalysisReviewer.R: Contains the analysis performed to assess the comments from reviewers in R1, R2 and R3.
